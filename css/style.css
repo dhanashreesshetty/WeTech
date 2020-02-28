@@ -184,10 +184,10 @@ h6 {
 
 #header #logo img {
   padding: 0;
-  margin: 0;
+  margin: 0 auto;
   max-height: 600px;
   vertical-align: top;
-  position:absolute;
+  align: center;
 }
 
 /*--------------------------------------------------------------
@@ -199,7 +199,6 @@ h6 {
 .nav-menu,
 .nav-menu * {
   margin: 0;
-  vertical-align: top;
   padding: 0;
   list-style: none;
 }
@@ -257,7 +256,6 @@ h6 {
 /* Nav Meu Container */
 
 #nav-menu-container {
-  float: right;
   margin: 0;
 }
 
